@@ -1,5 +1,5 @@
 # hello-world
-Novice programmer working to self-teach in order to transition to a new career in web development.
+Self-taught programmer seeking to transition to a new career in web development.
 Also likes: reading, baking, video games, board games, goofy hounds who squeak too much.
 
 
